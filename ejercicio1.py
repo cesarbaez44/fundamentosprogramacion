@@ -9,4 +9,4 @@ Nombre: String
 nombre=input('Escribe tu nombre: ')
 edad=input('Escribe tu edad:')
 saludo="Holaa " +nombre+ " tienes "+edad +" años"
-print (saludo)
+print (saludo)  
