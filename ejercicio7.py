@@ -1,6 +1,6 @@
 '''
 Ejercicio 7
-Programa un programa que reciba una cantidad de minutos y muestre por pantalla a cuantas horas y minutos corresponde
+Programa que reciba una cantidad de minutos y muestre por pantalla a cuantas horas y minutos corresponde
 
 Entrada: 
 total_minutos
